@@ -1,3 +1,1 @@
-{
-  "settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main"
-}
+{"settingsInheritedFrom": "Mend-developer-platform-load/whitesource-config@main", "issueSettings": {"minSeverityLevel": "LOW", "customLabels": ["label1", "label1", "label2", "license policy violation", "maintenance notice"]}}
